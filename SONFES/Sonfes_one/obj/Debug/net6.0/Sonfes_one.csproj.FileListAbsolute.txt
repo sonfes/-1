@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\SONFES\Sonfes_one\bin\Debug\net6.0\Sonfes_one.exe
+C:\Users\user\Desktop\SONFES\Sonfes_one\bin\Debug\net6.0\Sonfes_one.deps.json
+C:\Users\user\Desktop\SONFES\Sonfes_one\bin\Debug\net6.0\Sonfes_one.runtimeconfig.json
+C:\Users\user\Desktop\SONFES\Sonfes_one\bin\Debug\net6.0\Sonfes_one.dll
+C:\Users\user\Desktop\SONFES\Sonfes_one\bin\Debug\net6.0\Sonfes_one.pdb
+C:\Users\user\Desktop\SONFES\Sonfes_one\obj\Debug\net6.0\Sonfes_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SONFES\Sonfes_one\obj\Debug\net6.0\Sonfes_one.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SONFES\Sonfes_one\obj\Debug\net6.0\Sonfes_one.AssemblyInfo.cs
+C:\Users\user\Desktop\SONFES\Sonfes_one\obj\Debug\net6.0\Sonfes_one.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SONFES\Sonfes_one\obj\Debug\net6.0\Sonfes_one.dll
+C:\Users\user\Desktop\SONFES\Sonfes_one\obj\Debug\net6.0\refint\Sonfes_one.dll
+C:\Users\user\Desktop\SONFES\Sonfes_one\obj\Debug\net6.0\Sonfes_one.pdb
+C:\Users\user\Desktop\SONFES\Sonfes_one\obj\Debug\net6.0\Sonfes_one.genruntimeconfig.cache
+C:\Users\user\Desktop\SONFES\Sonfes_one\obj\Debug\net6.0\ref\Sonfes_one.dll
